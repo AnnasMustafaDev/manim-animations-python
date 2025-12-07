@@ -2,6 +2,9 @@
 from manim import *
 import numpy as np
 
+# manim -pql tree_split.py DecisionTreeSplit
+
+
 class DecisionTreeSplit(Scene):
     def construct(self):
         # 1. Setup the Coordinate System and Axes
