@@ -1,15 +1,14 @@
 from manim import *
+
 # Create an animation where:
 # A square appears
 # It moves to the right
 # A circle fades in next to it
 # The circle and square rotate together
 
-
 # Change the circle color to green
 # Make the square scale up by 1.3x before rotating
 # Make the circle appear above the square, not next to it
-
 
 # Modify the scene so that:
 # After rotation,
@@ -19,7 +18,6 @@ from manim import *
 # circle → YELLOW
 # Finally, make both shapes fade out together.
 # You can add these lines after the rotation animation
-
 
 # 1️⃣ A triangle that appears after the circle fades out
 # 2️⃣ The triangle should:
