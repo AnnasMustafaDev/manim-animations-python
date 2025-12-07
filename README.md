@@ -1,1 +1,1 @@
-# manim-animations-python
+This repo contains manim python lessons
